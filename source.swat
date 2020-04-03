@@ -1,0 +1,12 @@
+let a = 1 + 2;
+let b = 2 + a;
+
+if (a == b) {
+    let c = 3;
+} else {
+    let d = 5 + b;
+}
+
+while (a != b) {
+    let f = (a + d + b) / 3;
+}
